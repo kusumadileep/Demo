@@ -1,0 +1,4 @@
+p_username,p_password,p_repeatedPassword,p_firstName,p_lastName,p_email,p_phone,p_address1,p_address2,p_city,p_state,p_zip,p_country
+j5aa,j6aa,j6aa,motu,Pathulu,motu@abc.com,1234567890,krishnaNagar1,krishnaNagar2,Hyd,TG,123456,India
+j7aa,j8aa,j6aa,motu1,Pathulu1,motu1@abc.com,1234567890,krishnaNagar2,krishnaNagar3,Hyd3,TG3,123456,India
+j7aa,j8aa,j6aa,motu2,Pathulu2,motu2@abc.com,1234567890,krishnaNagar3,krishnaNagar4,Hyd4,TG4,123456,India
